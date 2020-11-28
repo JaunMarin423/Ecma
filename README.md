@@ -1,0 +1,1 @@
+Este proyecto es solo para ver, recordar y probar las funciones que trae cada ecma
